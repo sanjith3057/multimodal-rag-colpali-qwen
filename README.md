@@ -9,7 +9,7 @@ It handles **text + visuals** (tables, charts, layouts, figures) without any OCR
 - Generation: Qwen2-VL-2B-Instruct (grounded answers from images, works on free Colab T4)
 
 ## Quick Start (in Colab)
-1. Open the notebook: [multimodal_rag.ipynb](https://colab.research.google.com/github/sanjith3057/multimodal-rag-colpali-qwen/blob/main/multimodal_rag.ipynb)
+1. Open the notebook: (https://colab.research.google.com/drive/1Gqj8yerG4jBJNzo6m5fvkbQK4IiUWQto?usp=sharing)
 2. Run all cells in order
 3. Upload your own PDF and ask questions!
 
